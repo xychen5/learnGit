@@ -7,4 +7,4 @@ int main(){
     return 0;
 }
 
-void a1() {};
+void a2() {};
